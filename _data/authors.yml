@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Qirui Wang
-  email:             qiruiwangwilliam@gmail.com
+  name:              Qingyang Liu
+  email:             qingyang.liu0305@hotmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    My name is Qirui(Will) Wang, a graduate student at Machine Learning Department at Carnegie Mellon University, and I focus on speech/audio/music AI
+    My name is Qingyang (Coco) Liu, a graduate student in Biostatistics & Bioinformatics Department at Duke University, and I focus on data science applications in genomics and health sciences. I am motivated by opportunities to translate data-driven insights into meaningful impact across healthcare, technology, and business domains.
   
   # This photo will be used in the about section
   picture:
@@ -23,19 +23,19 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    github:            typhoeus-wang
-    email:             qiruiwangwilliam@gmail.com
+    # github:            typhoeus-wang
+    email:             qingyang.liu0305@hotmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
-    # youtube:         <string_string_string>
+    youtube:          cocoliu8266
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:         william_qiruiwang
+    # instagram:         william_qiruiwang
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -53,7 +53,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:          qrw-160509207
+    linkedin:          qingyang-coco-liu
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
@@ -61,6 +61,7 @@ author1:
     # paypal:          <username>
     # download:        <url>
     # keybase          <username>
+    xhs:            5635b527e00dd82813d9adc2
 
 # Another author (optional)
 author2:
