@@ -1,19 +1,19 @@
 ---
 layout: project
 title: 'Multimodal Single-Cell Integration for Protein Prediction from RNA'
-caption: Multimodal Single-Cell Integration for Protein Prediction from RNA
+caption: Predicts protein expression from single-cell RNA-seq using multimodal machine learning, revealing strong performance while highlighting challenges in biological feature interpretability.
 description: >
   This project investigates multimodal single-cell integration by predicting protein expression levels from RNA sequencing data using machine learning models. Linear regression, gradient boosting, and neural networks are evaluated to understand predictive performance and feature importance in CITE-seq data.
 date: 30 May 2023
 image: 
-  path: /assets/img/research/tce.jpg
+  path: /assets/img/project/multi.jpg
   srcset: 
-    1920w: /assets/img/research/tce.jpg
-    960w:  /assets/img/research/tce05.jpg
-    480w:  /assets/img/research/tce025.jpg
-# links:
-#   - title: Link
-#     url: https://github.com/chunqcao0822/CSE529_FinalProject/tree/main
+    1920w: /assets/img/project/multi.jpg
+    960w:  /assets/img/project/multi05.jpg
+    480w:  /assets/img/project/multi025.jpg
+links:
+  - title: Link
+    url: https://github.com/chunqcao0822/CSE529_FinalProject/tree/main
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'

@@ -1,16 +1,16 @@
 ---
 layout: project
 title: 'Vaccine Reservation System'
-caption: Vaccine Reservation System
+caption: Implements a Java-based, SQL-backed vaccine scheduling system with secure authentication and inventory-aware appointment management on cloud infrastructure.
 description: >
   This project implements a command-line vaccine appointment scheduling system backed by a relational SQL database hosted on Microsoft Azure. The system supports secure user authentication, real-time appointment booking, and inventory-aware scheduling through a Java-based application.
 date: 12 Dec 2022
 image: 
-  path: /assets/img/research/tce.jpg
+  path: /assets/img/project/vaccine.jpg
   srcset: 
-    1920w: /assets/img/research/tce.jpg
-    960w:  /assets/img/research/tce05.jpg
-    480w:  /assets/img/research/tce025.jpg
+    1920w: /assets/img/project/vaccine.jpg
+    960w:  /assets/img/project/vaccine05.jpg
+    480w:  /assets/img/project/vaccine025.jpg
 # links:
 #   - title: Link
 #     url: https://github.com/williamconvertino/sae-toxicity-supression

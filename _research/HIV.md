@@ -1,16 +1,16 @@
 ---
 layout: research
 title: 'HIV Molecular Epidemiology and Transmission Cluster Analysis'
-caption: HIV Molecular Epidemiology and Transmission Cluster Analysis
+caption: Comparative analysis of HIV-1 transmission clusters inferred from different genomic regions, illustrating how sequence length and genomic coverage influence phylogenetic structure and cluster detection in large-scale molecular epidemiology studies.
 description: >
   Applying molecular epidemiology and HIV phylogenetics to understand transmission patterns using large-scale public genomic databases. By comparing different regions of the HIV genome, it evaluates how genomic choice impacts transmission cluster detection in real-world data.
-date: 12 Jan 2026
+date: 10 Jan 2026
 image: 
-  path: /assets/img/research/manifold.png
+  path: /assets/img/research/HIV.jpg
   srcset: 
-    1920w: /assets/img/research/manifold.jpg
-    960w:  /assets/img/research/manifold05.jpg
-    480w:  /assets/img/research/manifold025.jpg
+    1920w: /assets/img/research/HIV.jpg
+    960w:  /assets/img/research/HIV05.jpg
+    480w:  /assets/img/research/HIV025.jpg
 # links:
 #   - title: Link
 #     url: https://tce.cs.washington.edu/

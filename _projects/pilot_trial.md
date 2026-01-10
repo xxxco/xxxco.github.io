@@ -1,16 +1,16 @@
 ---
 layout: project
 title: 'Pilot Trial Designing Software'
-caption: Pilot Trial Designing Software
+caption: Introduces a Bayesian framework and R Shiny tool for pilot trial design, enabling transparent go/no-go decisions through interpretable feasibility assessment.
 description: >
   Designed a Bayesian framework and interactive R Shiny tool to guide pilot trial planning, enabling more informative and interpretable feasibility assessments than traditional approaches.
-date: 12 Jan 2026
+date: 10 Jan 2026
 image: 
-  path: /assets/img/research/tce.jpg
+  path: /assets/img/project/pilot.jpg
   srcset: 
-    1920w: /assets/img/research/tce.jpg
-    960w:  /assets/img/research/tce05.jpg
-    480w:  /assets/img/research/tce025.jpg
+    1920w: /assets/img/project/pilot.jpg
+    960w:  /assets/img/project/pilot05.jpg
+    480w:  /assets/img/project/pilot025.jpg
 # links:
 #   - title: Link
 #     url: https://tce.cs.washington.edu/

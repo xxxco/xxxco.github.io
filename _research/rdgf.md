@@ -1,10 +1,10 @@
 ---
 layout: research
 title: 'Identifying Rare Disease Associated Transcriptional Programs'
-caption: Identifying Rare Disease Associated Transcriptional Programs
+caption: A network-based framework that integrates single-cell RNA-seq to identify tissue-specific transcriptional programs underlying rare diseases.
 description: >
   Rare diseases affect millions worldwide, yet identifying their causal genes remains challenging. In this project, we developed Rare Disease Gene Finder (RDGF), a scalable and interpretable gene-prioritization framework that integrates single-cell RNA-seq to improve rare disease diagnosis and discovery.
-date: 2026-01-12
+date: 2026-01-10
 image: 
   path: /assets/img/research/rdgf.jpg
   srcset: 
@@ -12,8 +12,8 @@ image:
     960w:  /assets/img/research/rdgf05.jpg
     480w:  /assets/img/research/rdgf025.jpg
 # links:
-#   - title: Link
-#     url: https://www.ece.uw.edu/wp-content/uploads/2024/04/Research-Showcase-2024-Poster-Jason-Isa.pdf
+#    - title: Link
+#      url: https://www.ece.uw.edu/wp-content/uploads/2024/04/Research-Showcase-2024-Poster-Jason-Isa.pdf
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
