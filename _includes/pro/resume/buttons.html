@@ -5,15 +5,23 @@
       {{ site.data.strings.print | default: "Print" }}
     </button>
   {% endif %}
-  {% if page.buttons.pdf %}
-    {% assign pdf = page.buttons.pdf %}
-    {% if pdf %}
-      <a href="{% include smart-url url=pdf %}" class="btn btn-sm btn-primary mt1">
-        <small class="icon-file-pdf"></small>
-        {{ site.data.strings.resume.download_pdf | default: "PDF" }}
-      </a>
-    {% endif %}
+
+  {% if page.buttons.pdf_ds %}
+    {% assign pdf_ds = page.buttons.pdf_ds %}
+    <a href="{% include smart-url url=pdf_ds %}" class="btn btn-sm btn-primary mt1">
+      <small class="icon-file-pdf"></small>
+      DS
+    </a>
   {% endif %}
+
+  {% if page.buttons.pdf_biostat %}
+    {% assign pdf_biostat = page.buttons.pdf_biostat %}
+    <a href="{% include smart-url url=pdf_biostat %}" class="btn btn-sm btn-primary mt1">
+      <small class="icon-file-pdf"></small>
+      Biostat
+    </a>
+  {% endif %}
+
   {% if page.buttons.vcf %}
     {% assign abs_url = page.url | absolute_url %}
     {% assign vcf = page.buttons.vcf | replace:"<!--url-->",abs_url %}
@@ -22,13 +30,14 @@
       {{ site.data.strings.resume.download_vcf | default: "vCard" }}
     </a>
   {% endif %}
+
   {% if page.buttons.json %}
     {% assign json = page.buttons.json %}
     {% if json %}
-    <a href="{% include smart-url url=json %}" class="btn btn-sm btn-primary mt1" download>
-      <small class="content-json"></small>
-      {{ site.data.strings.resume.download_json | default: "JSON" }}
-    </a>
+      <a href="{% include smart-url url=json %}" class="btn btn-sm btn-primary mt1" download>
+        <small class="content-json"></small>
+        {{ site.data.strings.resume.download_json | default: "JSON" }}
+      </a>
     {% endif %}
   {% endif %}
 </div>

@@ -14,9 +14,9 @@ image:
 links:
   - title: Link
     url: https://github.com/williamconvertino/sae-toxicity-supression
-accent_color: '#4fb1ba'
+accent_color: '#00539B'
 accent_image:
-  background: '#193747'
+  background: '#00539B'
 theme_color: '#012169'
 sitemap: false
 ---

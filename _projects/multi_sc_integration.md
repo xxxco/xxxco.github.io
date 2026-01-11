@@ -14,10 +14,10 @@ image:
 links:
   - title: Link
     url: https://github.com/chunqcao0822/CSE529_FinalProject/tree/main
-accent_color: '#4fb1ba'
+accent_color: '#c5b4e3'
 accent_image:
-  background: '#193747'
-theme_color: '#4B2D83'
+  background: '#4B2D83'
+theme_color: '#32006e'
 sitemap: false
 ---
 

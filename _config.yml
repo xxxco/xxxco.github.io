@@ -37,7 +37,7 @@ keywords:              [data scientist, biostatistician, genomics, ML]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo2.png
+logo:                  /assets/img/logo4.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -98,12 +98,12 @@ paginate_path:         /blog/:num/
  
 # Sidebar image and theme color of the site.
 accent_image:          assets/img/cover.jpg
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(0, 83, 155) # Duke Navy Blue rgb(1,33,105) rgb(0, 83, 155) UW spirit purple rgb(51,0,111)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(25,55,71)
+theme_color:           rgb(0, 83, 155)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
