@@ -43,7 +43,7 @@ logo:                  /assets/img/logo4.png
 author:
   # Used by `jekyll-feed`:
   name:                Qingyang Liu
-  email:               qingyang.liu0305@hotmail.com
+  email:               qingyang.liu0305@gmail.com
 
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -62,8 +62,8 @@ menu:
     url:               /projects/
   - title:             Résumé*
     url:               /resume/
-  # - title:             Documentation
-  #   url:               /docs/
+  # - title:             Photography
+  #   url:               /photography/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -316,6 +316,9 @@ collections:
     permalink:         /research/:path/
     output:            true
 
+  # photography:
+  #   permalink:        /photography/:path/
+  #   output:           true
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------

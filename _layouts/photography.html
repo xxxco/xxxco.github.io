@@ -1,0 +1,30 @@
+---
+layout: page
+---
+
+{%- assign albums = site.photography -%}
+
+{{ content }}
+
+{%- assign date_formats  = site.data.strings.date_formats -%}
+{%- assign list_group_by = date_formats.list_group_by | default:"%Y" -%}
+{%- assign no_third_column = page.no_third_column | default:site.hydejack.no_third_column | default:false -%}
+
+{%- assign no_groups = page.no_groups | default:true -%}
+
+{%- if albums and albums.size > 0 -%}
+  <div class="columns {% unless no_third_column %}columns-break{% endunless %}">
+  {%- for a in albums -%}
+    {%- assign featured = page.featured | default:a.featured -%}
+    <div class="column {% if featured %}column-1{% else %}column-1-2{% endif %}">
+      {%- comment -%}
+      Reuse Hydejack's post card for collection docs.
+      It expects a variable named "post", so we pass the album doc as post=a.
+      {%- endcomment -%}
+      {% include_cached pro/post-card.html post=a featured=featured %}
+    </div>
+  {%- endfor -%}
+  </div>
+{%- else -%}
+  <p>No albums yet.</p>
+{%- endif -%}

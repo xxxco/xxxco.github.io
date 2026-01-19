@@ -5,7 +5,7 @@ basics:
   name: "Qingyang Liu"
   label: "Data Scientist/Biostatistician"
   picture: "/assets/img/resume_pic_240x240.jpg"
-  email: "qingyang.liu0305@hotmail.com"
+  email: "qingyang.liu0305@gmail.com"
   phone: "(206)739-1514"
   website: "https://xxxco.github.io/"
   summary: >
@@ -161,9 +161,12 @@ interests:
     keywords:
       - "Landscape Photography"
       - "Portrait Photography"
-  - name: "Tennis🎾"
+  - name: "Sports"
     keywords: 
-      - "beginner"
+      - "Tennis🎾"
+      - "Swimming🏊‍♀️"
+      - "Badminton🏸"
+      - "Karate🥋"
 
 # references:
 #   - name: "Erlich Bachman"
