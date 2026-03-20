@@ -6,7 +6,7 @@ basics:
   label: "Data Scientist/Biostatistician"
   picture: "/assets/img/resume_pic_240x240.jpg"
   email: "qingyang.liu0305@gmail.com"
-  phone: "(206)739-1514"
+  # phone: "(206)739-1514"
   website: "https://xxxco.github.io/"
   summary: >
     Hi, I'm Qingyang Liu, a graduate student at Biostatistics & Bioinformatics Department at Duke University. I obtained my bachelor's degree from University of Washington, Seattle, majoring in Applied Computational Mathematical Science (data science track).
