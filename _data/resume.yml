@@ -67,7 +67,7 @@ work:
     position: "Data Scientist II"
     website: "https://ichp.ufl.edu/evaluation/texas/"
     startDate: "2026-07-17"
-    endDate: "Present"
+    endDate: ""
     summary: >
       Design and implement real-world data (RWD) pipelines and validation studies for multi-program patient-level datasets
     highlights:
