@@ -9,10 +9,10 @@ basics:
   # phone: "(206)739-1514"
   website: "https://xxxco.github.io/"
   summary: >
-    Hi, I'm Qingyang Liu, a graduate student at Biostatistics & Bioinformatics Department at Duke University. I obtained my bachelor's degree from University of Washington, Seattle, majoring in Applied Computational Mathematical Science (data science track).
+    Hi, I'm Qingyang Liu, a Data Scientist at the University of Florida's School of Medicine. I recently graduated from Duke University's Department of Biostatistics and Bioinformatics with a master's degree in Biostatistics. I also hold a bachelor's degree in Applied and Computational Mathematical Sciences (Data Science track) from the University of Washington, Seattle.
   location:
-    address: "Durham, NC"
-    postalCode: "27707"
+    address: "Gainesville, FL"
+    postalCode: "32608"
     # city: "Durham"
     countryCode: "US"
     # region: "North Carolina"
@@ -63,6 +63,19 @@ education:
     - "Waseda University Karate Club"
 
 work:
+  - company: "University of Florida, School of Medicine"
+    position: "Data Scientist II"
+    website: "https://ichp.ufl.edu/evaluation/texas/"
+    startDate: "2026-07-17"
+    endDate: "Present"
+    summary: >
+      Design and implement real-world data (RWD) pipelines and validation studies for multi-program patient-level datasets
+    highlights:
+      - "Built multi-stage real-world data pipelines in SQL/R/Python over millions of patient-level records across 5 programs"
+      - "Designed RWD validation studies with sample sizing, proportion tests, and non-response weighting for demographics"
+      - "Authored methodology documents and SOPs translating technical analyses into deliverables for external stakeholders"
+      - "Validated data sources end-to-end with cell-by-cell reconciliation, catching defects missed by industry validators"
+
   - company: "Duke University"
     position: "Graduate Research Assistant"
     website: "https://singhlab.net/"
