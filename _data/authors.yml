@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I’m Qingyang (Coco) Liu, a graduate student in Biostatistics & Bioinformatics at Duke University, with interests in data science, genomics, and healthcare applications.
+    I'm Qingyang (Coco) Liu, a data scientist at University of Florida, specializing in data science, genomics, and healthcare applications.
   
   # This photo will be used in the about section
   picture:
